@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: pastel-tonic
+description: "A soft, fuzzy jekyll theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
